@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /$
+
+Sitemap: http://bornlucky-load-test-euwest2.gamevy.com/sitemap.xml
